@@ -6,7 +6,7 @@ class Box extends Component{
     render(){
         return (
             <div>
-                <h3>react-redux</h3>
+                <h3>react-redu</h3>
                 <Son1></Son1>
                 <hr/>
                 <Son2></Son2>
